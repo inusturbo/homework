@@ -1,0 +1,90 @@
+C语言程序设计		cyycxsj
+大学英语 1			dxyy1
+电子商务概论		dzswgl
+高等数学甲1		gdsxj1
+计算机技能训练		jsjjnxl
+军训			jx
+马克思主义基本原理		mkszyjbyl
+思想道德修养与法律基础	sxddxyyfljc
+体育1			ty1
+新生研讨课		xsytk
+军事理论			jsll
+
+
+大学物理实验（甲）		dxwlsy
+大学英语 3		dxyy3
+概率论与数理统计		gllysltj
+计算方法			jsff
+计算机组成与系统结构（甲）	jsjzcylyxtjg
+面向对象程序设计		mxdxcxsj
+数学建模			sxjm
+数字逻辑与数字系统		szljyszxt
+体育Ⅲ			ty3
+线性代数			xxds
+
+
+大学物理（甲）		dxwlj
+大学英语 2		dxyy2
+电子商务认识实习		dzswrssx
+高等数学 (甲)(Ⅱ)		gdsxj2
+工程训练（乙）		gcxly
+数据结构			sjjg
+数据结构与C语言综合训练	sjjgyczhxl
+体育Ⅱ			ty2
+中国近现代史纲要		zgjxdsgy
+学科导论			xkdl
+面向对象程序设计		mxdxcxsj
+
+J2EE技术			j2eejs
+电子商务物流		dzswwl
+计算机网络		jsjwl
+离散数学			lssx
+面向对象系统分析与设计	mxdxxtfxysj
+数据库设计（乙）		sjksjy
+算法分析			sffx
+网络安全			wlaq
+Linux程序设计		linuxcxsj
+信息安全			xxaq
+数值分析			szfx
+Java EE技术		javaeejs
+电子商务物流与供应链管理	dzswwlygylgl
+电子商务系统分析与设计	dzswxtfxysj
+计算机图形学		jsjtxx
+计算机网络综合训练		jsjwlzhxl
+商务智能与数据挖掘		swznysjwj
+算法分析与设计		sffxysj
+信息安全综合实训		xxaqzhsx
+移动软件开发		ydrjkf
+云计算			yjs
+
+Java语言程序设计		javayycxsj
+Web技术及应用		webjsjyy
+操作系统			czxt
+大学英语 4			dxyy4
+毛泽东思想和中国特色社会主义理论 mzdsxhzgtsshzyll
+面向对象编程实践		mxdxbcsj
+数据库原理与应用		sjkylyyy
+体育Ⅳ			ty4
+电子商务物流		dzswwl
+数据库综合训练		sjkzhxl
+中间件技术		zjjjs
+
+	
+电子商务案例分析		dzswalfx
+经济法学			jjfx
+微观经济学		wgjjx
+ERP管理与应用		erpglyyy
+大数据管理		dsjgl
+软件过程配置与管理		rjgcpzygl
+软件开发综合训练		rjkfzhxl
+虚拟现实技术		xnxsjs
+软件自动化测试技术		rjzdhcsjs
+
+安全电子商务系统设计	aqdzswxtsj
+电子商务安全		dzswaq
+电子商务技术与系统设计	dzswjsyxtsj
+电子商务系统评测		dzswxtpc
+电子商务支付与清算		dzswzfyqs
+网络营销			wlyx
+
+毕业设计			bysj
